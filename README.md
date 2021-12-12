@@ -6,7 +6,6 @@
 - ⚙️ I like to use <img src='https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b9527q591k8uufhwfcwrayb5adfc46cz4nd4rtnhwf86&rid=giphy.gif&ct=s' height='15'>`.tsx` and <img src='https://i.imgur.com/P1ePcOu.gif' height='15'>`.php`.
 - 🌱 Learning: [Domain Driven Design](https://g.co/kgs/jgXBDL)
 - 📚 Reading: [The Pragmatic Programmer](https://g.co/kgs/HCNmxt)
-- 💻 Code wars: [codewars.com/users/lucaxue](https://www.codewars.com/users/lucaxue)
 - ⚡️ Fun fact: I wake up at 5am daily.
 
 <br>
